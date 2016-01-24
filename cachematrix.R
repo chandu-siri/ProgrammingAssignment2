@@ -1,4 +1,4 @@
-## makeCacheMatrix creates a special matrix (list actually) which caches/stores its inverse.
+## makeCacheMatrix creates a special matrix (list actually) which caches or stores it's inverse.
 ## cacheSolve first checks whether the matrix has inverse in cache, if not then this function calculates the inverse 
 
 ## this function takes creates a null matrix x, required matrix value is assigned to this matrix and inverse
